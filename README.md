@@ -4,3 +4,5 @@ A group of projects containing my programs made for my learning on a certain pro
 ## Programming Languages
 All programming languages that this repository contains will be listed here.
 - Assembly (ARM64-AArch64)
+- JavaScript
+- Python
